@@ -77,4 +77,4 @@ Special thanks to the open data community and Microsoft Power BI resources for g
 
 ---
 
-> “Turning data into decisions — one dashboard at a time.” 💡  
+Turning data into decisions — one dashboard at a time.   
